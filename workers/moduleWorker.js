@@ -1,0 +1,3 @@
+onmessage = ({ data }) => {
+  postMessage(data);
+};
